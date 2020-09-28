@@ -1,4 +1,4 @@
-# Strategy Back Test
+# PAA-P3LMC Strategy Back Test
 This is the result of back testing for the past 10 years. 8/1/2010 - 8/1/2020.
 
 |CAGR           |31.86% |
