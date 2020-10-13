@@ -9,7 +9,7 @@ MDD   -13.64%
 plus   127.00   months
 minus   63.00   months
 
-             CAGR   MAX   MIN   STDEV
+CAGR   MAX   MIN   STDEV
 2005   -4.63%   4.69   -5.86   3.26
 2006   26.77%   6.42   -0.88   2.60
 2007   78.81%   41.86   -8.40   12.42
@@ -37,7 +37,7 @@ MDD   -13.64%
 plus   127.00   months
 minus   63.00   months
 
-            CAGR   MAX   MIN   STDEV
+CAGR   MAX   MIN   STDEV
 2005   7.77%   4.00   -5.86   3.17
 2006   51.81%   4.00   -0.88   2.00
 2007   39.09%   4.00   -8.40   3.52
